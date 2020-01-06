@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My
+.gitignore
+selenium_env/
+*.exe
+
